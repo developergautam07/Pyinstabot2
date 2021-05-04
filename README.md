@@ -15,7 +15,7 @@ pip install instabot
 ```
 
 ## Usage
-Watch the full [tutorial](https://youtu.be/aaDBsGIPG4M) on our youtube channel to know the complete setup. 
+Watch the full [tutorial](https://youtu.be/0xNOBo4Nrzg) on our youtube channel to know the complete setup. 
 YT Channel: [Developer Gautam](https://www.youtube.com/c/developergautam)
 
 ## Contributing
